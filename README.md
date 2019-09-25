@@ -7,3 +7,5 @@
 #Other Feature
 
 #Feature for use-case-003 was implemented
+
+#Feature for use-case-004 was implemented
